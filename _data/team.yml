@@ -22,6 +22,17 @@
     - title: stack-overflow
       url: #
 
+- name: Minsuk (Brian) Kahng
+  pic: 1.jpg
+  position: PhD Student, Georgia Tech
+  social:
+    - title: home
+      url: http://minsuk.com/research/
+    - title: linkedin
+      url: https://www.linkedin.com/in/minsukkahng
+    - title: google
+      url: https://scholar.google.com/citations?user=vieI1GYAAAAJ
+
 - name: Yiqi (Victor) Chen
   pic: victor.png
   position: Software Engineer, Facebook
