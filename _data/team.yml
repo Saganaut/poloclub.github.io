@@ -10,17 +10,17 @@
       url: https://www.linkedin.com/in/acar-tamersoy-94481b120
     - title: google
       url: https://scholar.google.com/citations?user=tHffG7wAAAAJ
-      
+
 - name: Robert Pienta
   pic: 1.jpg
   position: Lead Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: home
+      url: http://www.cc.gatech.edu/~rpienta3/
+    - title: linkedin
+      url: www.linkedin.com/in/robert-pienta-54216550
+    - title: google
+      url: https://scholar.google.com/citations?user=xS4h9-EAAAAJ&hl=en
 
 - name: Minsuk (Brian) Kahng
   pic: 1.jpg
